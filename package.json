@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "express": "^4.16.4",
     "next": "^7.0.2",
     "npm": "^6.4.1",
     "react": "^16.6.3",
